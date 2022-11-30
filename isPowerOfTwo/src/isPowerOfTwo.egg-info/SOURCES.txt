@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+isPowerOfTwo/src/isPowerOfTwo.py
+isPowerOfTwo/src/isPowerOfTwo.egg-info/PKG-INFO
+isPowerOfTwo/src/isPowerOfTwo.egg-info/SOURCES.txt
+isPowerOfTwo/src/isPowerOfTwo.egg-info/dependency_links.txt
+isPowerOfTwo/src/isPowerOfTwo.egg-info/top_level.txt
